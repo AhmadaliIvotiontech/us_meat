@@ -1,0 +1,30 @@
+.topbar .top-navbar,footer {
+    background-color: #000 !important;
+    color: #fff !important;
+}
+a:hover,.sidebar-nav ul li a.active, .sidebar-nav ul li a:hover ,.sidebar-nav ul li a.active i, .sidebar-nav ul li a:hover i ,.breadcrumb-item.active{
+    color: #F4342F !important;
+}
+a{
+    color: #F4342F;
+}
+.sidebar-nav ul li a {
+    color: #fff !important;
+}
+.navbar-header, .left-sidebar{
+    background-color: #000 !important;
+}
+.left-sidebar .dropdown a,.left-sidebar .nav-small-cap{
+    color: #F4342F !important;
+    font-weight: 900;
+}
+
+.sidebar-nav>ul>li.active>a {
+    color: #F4342F !important;;
+    border-left: 3px solid #F4342F !important;
+}
+.btn-danger {
+    color: #000;
+    background-color: #F4342F !important;
+    border-color: #F4342F !important;
+}   
